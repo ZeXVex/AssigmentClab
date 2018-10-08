@@ -1,3 +1,6 @@
+using System.Collections.Generic;
+using LampApp.Core.Entity;
+
 namespace LampApp.Core.ApplicationService
 {
     public interface IOrderService
@@ -7,8 +10,7 @@ namespace LampApp.Core.ApplicationService
         Order Create(Order order);
         //Read Data
         Order ReadyById(int id);
-        IEnumerable<Order> ReadAll(Filter filter = null);
-        int Count();
+        List<Order> ReadAll();
         //Update Data
         Order Update(Order OrderUpdate);
         //Delete Data

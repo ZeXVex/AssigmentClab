@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\ZeXVex\\Desktop\\AssigmentClab\\LampApp.Core\\LampApp.Core.csproj",
+    "projectUniqueName": "C:\\Users\\ZeXVex\\Documents\\School\\Assigment\\AssigmentClab\\LampApp.Core\\LampApp.Core.csproj",
     "projectName": "LampApp.Core",
-    "projectPath": "C:\\Users\\ZeXVex\\Desktop\\AssigmentClab\\LampApp.Core\\LampApp.Core.csproj",
-    "outputPath": "C:\\Users\\ZeXVex\\Desktop\\AssigmentClab\\LampApp.Core\\obj\\",
+    "projectPath": "C:\\Users\\ZeXVex\\Documents\\School\\Assigment\\AssigmentClab\\LampApp.Core\\LampApp.Core.csproj",
+    "outputPath": "C:\\Users\\ZeXVex\\Documents\\School\\Assigment\\AssigmentClab\\LampApp.Core\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -15,8 +15,8 @@
     "frameworks": {
       "netstandard2.0": {
         "projectReferences": {
-          "C:\\Users\\ZeXVex\\Desktop\\AssigmentClab\\LampApp.Core.Entity\\LampApp.Core.Entity.csproj": {
-            "projectPath": "C:\\Users\\ZeXVex\\Desktop\\AssigmentClab\\LampApp.Core.Entity\\LampApp.Core.Entity.csproj"
+          "C:\\Users\\ZeXVex\\Documents\\School\\Assigment\\AssigmentClab\\LampApp.Core.Entity\\LampApp.Core.Entity.csproj": {
+            "projectPath": "C:\\Users\\ZeXVex\\Documents\\School\\Assigment\\AssigmentClab\\LampApp.Core.Entity\\LampApp.Core.Entity.csproj"
           }
         }
       }

@@ -1,3 +1,6 @@
+using System.Collections.Generic;
+using LampApp.Core.Entity;
+
 namespace LampApp.Core.ApplicationService.Services
 {
     public class OrderService : IOrderService
@@ -12,12 +15,7 @@ namespace LampApp.Core.ApplicationService.Services
             throw new System.NotImplementedException();
         }
 
-        public IEnumerable<Order> ReadAll(Filter filter = default(Filter))
-        {
-            throw new System.NotImplementedException();
-        }
-
-        public int Count()
+        public List<Order> ReadAll()
         {
             throw new System.NotImplementedException();
         }
