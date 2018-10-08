@@ -1,0 +1,47 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\ZeXVex\\Desktop\\AssigmentClab\\LampApp.Core\\LampApp.Core.csproj",
+    "projectName": "LampApp.Core",
+    "projectPath": "C:\\Users\\ZeXVex\\Desktop\\AssigmentClab\\LampApp.Core\\LampApp.Core.csproj",
+    "outputPath": "C:\\Users\\ZeXVex\\Desktop\\AssigmentClab\\LampApp.Core\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netstandard2.0"
+    ],
+    "frameworks": {
+      "netstandard2.0": {
+        "projectReferences": {
+          "C:\\Users\\ZeXVex\\Desktop\\AssigmentClab\\LampApp.Core.Entity\\LampApp.Core.Entity.csproj": {
+            "projectPath": "C:\\Users\\ZeXVex\\Desktop\\AssigmentClab\\LampApp.Core.Entity\\LampApp.Core.Entity.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netstandard2.0": {
+      "dependencies": {
+        "NETStandard.Library": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.0.3, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

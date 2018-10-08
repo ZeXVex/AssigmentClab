@@ -11506,11 +11506,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ZeXVex\\Documents\\School\\Assigment\\AssigmentClab\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "C:\\Users\\ZeXVex\\Desktop\\AssigmentClab\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "C:\\Users\\ZeXVex\\Documents\\School\\Assigment\\AssigmentClab\\WebApplication1\\WebApplication1.csproj",
+      "projectPath": "C:\\Users\\ZeXVex\\Desktop\\AssigmentClab\\WebApplication1\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\ZeXVex\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ZeXVex\\Documents\\School\\Assigment\\AssigmentClab\\WebApplication1\\obj\\",
+      "outputPath": "C:\\Users\\ZeXVex\\Desktop\\AssigmentClab\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

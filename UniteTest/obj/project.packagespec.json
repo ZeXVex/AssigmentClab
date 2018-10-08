@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\ZeXVex\\Documents\\School\\Assigment\\AssigmentClab\\UniteTest\\UniteTest.csproj",
+    "projectUniqueName": "C:\\Users\\ZeXVex\\Desktop\\AssigmentClab\\UniteTest\\UniteTest.csproj",
     "projectName": "UniteTest",
-    "projectPath": "C:\\Users\\ZeXVex\\Documents\\School\\Assigment\\AssigmentClab\\UniteTest\\UniteTest.csproj",
-    "outputPath": "C:\\Users\\ZeXVex\\Documents\\School\\Assigment\\AssigmentClab\\UniteTest\\obj\\",
+    "projectPath": "C:\\Users\\ZeXVex\\Desktop\\AssigmentClab\\UniteTest\\UniteTest.csproj",
+    "outputPath": "C:\\Users\\ZeXVex\\Desktop\\AssigmentClab\\UniteTest\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

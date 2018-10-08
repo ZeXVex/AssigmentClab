@@ -7,10 +7,10 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("UniteTest")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("LampApp.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("UniteTest")]
-[assembly: System.Reflection.AssemblyTitleAttribute("UniteTest")]
+[assembly: System.Reflection.AssemblyProductAttribute("LampApp.Core")]
+[assembly: System.Reflection.AssemblyTitleAttribute("LampApp.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

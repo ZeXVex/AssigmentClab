@@ -36,56 +36,191 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-366102409">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="15" />
+          <entry key="csproj" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="15" />
+          <entry key="Csproj" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="510" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="510" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HumanApp.Infrastructure.Data/Class1.cs">
+        <entry file="file://$PROJECT_DIR$/LampApp.Core/ApplicationService/IOrderService.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="210">
+              <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
               <folding>
-                <marker date="1539001331885" expanded="true" signature="53:93" ph="{...}" />
-                <marker date="1539001331885" expanded="true" signature="79:91" ph="{...}" />
+                <marker date="1539023067816" expanded="true" signature="41:442" ph="{...}" />
+                <marker date="1539023067816" expanded="true" signature="78:440" ph="{...}" />
+                <marker date="1539023067816" expanded="true" signature="93:152" ph="/* Create Data ... */" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HumanApp.Core/ApplicationService/IHumanService.cs">
+        <entry file="file://$PROJECT_DIR$/LampApp.Core/ApplicationService/Services/LampService.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
               <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
               <folding>
-                <marker date="1539001417581" expanded="true" signature="42:102" ph="{...}" />
-                <marker date="1539001417581" expanded="true" signature="79:100" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HumanApp.Core/ApplicationService/Services/HumanService.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
-              <folding>
-                <marker date="1539001444793" expanded="true" signature="51:106" ph="{...}" />
-                <marker date="1539001444793" expanded="true" signature="83:104" ph="{...}" />
+                <marker date="1539021829560" expanded="true" signature="50:104" ph="{...}" />
+                <marker date="1539021829560" expanded="true" signature="81:102" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/UniteTest/UnitTest1.cs">
+        <entry file="file://$PROJECT_DIR$/LampApp.Core/ApplicationService/Services/OrderService.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="510">
+              <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
               <folding>
-                <marker date="1539001461198" expanded="false" signature="6:26" ph="..." />
-                <marker date="1539001461198" expanded="true" signature="47:153" ph="{...}" />
-                <marker date="1539001461198" expanded="true" signature="76:151" ph="{...}" />
-                <marker date="1539001461198" expanded="true" signature="125:145" ph="{...}" />
+                <marker date="1539023067774" expanded="true" signature="50:838" ph="{...}" />
+                <marker date="1539023067774" expanded="true" signature="98:836" ph="{...}" />
+                <marker date="1539023067774" expanded="true" signature="145:221" ph="{...}" />
+                <marker date="1539023067774" expanded="true" signature="261:337" ph="{...}" />
+                <marker date="1539023067774" expanded="true" signature="413:489" ph="{...}" />
+                <marker date="1539023067774" expanded="true" signature="517:593" ph="{...}" />
+                <marker date="1539023067774" expanded="true" signature="641:717" ph="{...}" />
+                <marker date="1539023067774" expanded="true" signature="754:830" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LampApp.Core.Entity/Lamp.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+              <folding>
+                <marker date="1539023067801" expanded="true" signature="29:271" ph="{...}" />
+                <marker date="1539023067801" expanded="true" signature="53:269" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LampApp.Core.Entity/Customer.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+              <folding>
+                <marker date="1539023067644" expanded="true" signature="64:325" ph="{...}" />
+                <marker date="1539023067644" expanded="true" signature="92:323" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LampApp.Core/ApplicationService/Services/CustomerService.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+              <folding>
+                <marker date="1539023067728" expanded="true" signature="6:67" ph="..." />
+                <marker date="1539023067728" expanded="true" signature="119:2189" ph="{...}" />
+                <marker date="1539023067728" expanded="true" signature="166:2187" ph="{...}" />
+                <marker date="1539023067728" expanded="true" signature="289:399" ph="{...}" />
+                <marker date="1539023067728" expanded="true" signature="427:503" ph="{...}" />
+                <marker date="1539023067728" expanded="true" signature="591:814" ph="{...}" />
+                <marker date="1539023067728" expanded="true" signature="652:777" ph="{...}" />
+                <marker date="1539023067728" expanded="true" signature="869:936" ph="{...}" />
+                <marker date="1539023067728" expanded="true" signature="986:1054" ph="{...}" />
+                <marker date="1539023067728" expanded="true" signature="1117:1235" ph="{...}" />
+                <marker date="1539023067728" expanded="true" signature="1284:1357" ph="{...}" />
+                <marker date="1539023067728" expanded="true" signature="1419:1720" ph="{...}" />
+                <marker date="1539023067728" expanded="true" signature="1785:2068" ph="{...}" />
+                <marker date="1539023067728" expanded="true" signature="2116:2181" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LampApp.Core/DomainService/IOrderRepository.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+              <folding>
+                <marker date="1539023067683" expanded="true" signature="6:60" ph="..." />
+                <marker date="1539023067683" expanded="true" signature="98:510" ph="{...}" />
+                <marker date="1539023067683" expanded="true" signature="138:508" ph="{...}" />
+                <marker date="1539023067683" expanded="true" signature="153:212" ph="/* Create Data ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LampApp.Core/DomainService/ICustomerRepository.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+              <folding>
+                <marker date="1539023067707" expanded="true" signature="6:81" ph="..." />
+                <marker date="1539023067707" expanded="true" signature="119:600" ph="{...}" />
+                <marker date="1539023067707" expanded="true" signature="162:598" ph="{...}" />
+                <marker date="1539023067707" expanded="true" signature="177:275" ph="/* CustomerRepository Interface ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LampApp.Core/ApplicationService/ICustomerService.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" column="40" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="40" />
+              <folding>
+                <marker date="1539023067656" expanded="true" signature="6:95" ph="..." />
+                <marker date="1539023067656" expanded="true" signature="138:828" ph="{...}" />
+                <marker date="1539023067656" expanded="true" signature="178:826" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LampApp.Core.Entity/Order.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+              <folding>
+                <marker date="1539023067758" expanded="true" signature="6:47" ph="..." />
+                <marker date="1539023067758" expanded="true" signature="78:345" ph="{...}" />
+                <marker date="1539023067758" expanded="true" signature="103:343" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -96,6 +231,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/LampApp.Core/ApplicationService/Services/CustomerService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LampApp.Core/ApplicationService/ICustomerService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LampApp.Infrastructure.Data/Class1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LampApp.Core/DomainService/ICustomerRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LampApp.Core/DomainService/IOrderRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/UniteTest/UnitTest1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LampApp.Core/ApplicationService/ILampService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LampApp.Core/ApplicationService/IOrderService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LampApp.Core/ApplicationService/Services/LampService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LampApp.Core/ApplicationService/Services/OrderService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LampApp.Core.Entity/Lamp.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LampApp.Core.Entity/Order.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LampApp.Core.Entity/Customer.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -105,6 +255,24 @@
         <option value="$PROJECT_DIR$/HumanApp.Core/ApplicationService/IHumanService.cs" />
         <option value="$PROJECT_DIR$/HumanApp.Core/ApplicationService/Services/HumanService.cs" />
         <option value="$PROJECT_DIR$/UniteTest/UnitTest1.cs" />
+        <option value="$PROJECT_DIR$/HumanApp.Core/ApplicationService/Services/LampService.cs" />
+        <option value="$PROJECT_DIR$/LampApp.Infrastructure.Data/Class1.cs" />
+        <option value="$PROJECT_DIR$/LampApp.Core.Entity/Class1.cs" />
+        <option value="$PROJECT_DIR$/LampApp.Core/Class1.cs" />
+        <option value="$PROJECT_DIR$/LampApp.Core/LampApp.Core.csproj" />
+        <option value="$PROJECT_DIR$/LampApp.Core/ApplicationService/ILampService.cs" />
+        <option value="$PROJECT_DIR$/LampApp.Core/ApplicationService/Services/LampService.cs" />
+        <option value="$PROJECT_DIR$/LampApp.Core.Entity/Oreder.cs" />
+        <option value="$PROJECT_DIR$/LampApp.Core.Entity/Lamp.cs" />
+        <option value="$PROJECT_DIR$/LampApp.Core.Entity/Order.cs" />
+        <option value="$PROJECT_DIR$/LampApp.Core.Entity/Customer.cs" />
+        <option value="$PROJECT_DIR$/LampApp.Core/ApplicationService/Services/Customer.cs" />
+        <option value="$PROJECT_DIR$/LampApp.Core/ApplicationService/ICustomerService.cs" />
+        <option value="$PROJECT_DIR$/LampApp.Core/DomainService/ICustomerRepository.cs" />
+        <option value="$PROJECT_DIR$/LampApp.Core/DomainService/IOrderRepository.cs" />
+        <option value="$PROJECT_DIR$/LampApp.Core/ApplicationService/Services/CustomerService.cs" />
+        <option value="$PROJECT_DIR$/LampApp.Core/ApplicationService/IOrderService.cs" />
+        <option value="$PROJECT_DIR$/LampApp.Core/ApplicationService/Services/OrderService.cs" />
       </list>
     </option>
   </component>
@@ -114,10 +282,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
-    <option name="width" value="974" />
-    <option name="height" value="1047" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -125,6 +294,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -141,20 +311,35 @@
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
               <item name="AssigmentClab" type="24d0babc:SolutionExplorerModelNode" />
               <item name="Core" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="HumanApp.Core" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="LampApp.Core" type="24d0babc:SolutionExplorerModelNode" />
             </path>
             <path>
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
               <item name="AssigmentClab" type="24d0babc:SolutionExplorerModelNode" />
               <item name="Core" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="HumanApp.Core" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="LampApp.Core" type="24d0babc:SolutionExplorerModelNode" />
               <item name="ApplicationService" type="24d0babc:SolutionExplorerModelNode" />
             </path>
             <path>
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
               <item name="AssigmentClab" type="24d0babc:SolutionExplorerModelNode" />
               <item name="Core" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="HumanApp.Core.Entity" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="LampApp.Core" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="ApplicationService" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Services" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="AssigmentClab" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Core" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="LampApp.Core" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="DomainService" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="AssigmentClab" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Core" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="LampApp.Core.Entity" type="24d0babc:SolutionExplorerModelNode" />
             </path>
             <path>
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
@@ -166,14 +351,14 @@
         </subPane>
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../SDP/CSharpCleanRestWithEFCore2018-master" />
+    <property name="last_opened_file_path" value="C:/Program Files/Git/git-cmd.exe" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -218,11 +403,13 @@
       <option name="presentableId" value="Default" />
       <updated>1539001110460</updated>
       <workItem from="1539001113824" duration="355000" />
+      <workItem from="1539021262999" duration="45000" />
+      <workItem from="1539021364838" duration="1700000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="355000" />
+    <option name="totallyTimeSpent" value="2100000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -234,20 +421,12 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.5131291" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2585288" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="NuGet" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Unit Tests" />
-      <window_info anchor="bottom" id="REST Client" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -255,18 +434,26 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Errors In Solution" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Unit Tests Coverage" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info anchor="bottom" id="REST Client" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -282,41 +469,14 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/HumanApp.Core/Class1.cs">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HumanApp.Core.Entity/Class1.cs">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HumanApp.Infrastructure.Data/Class1.cs">
+    <entry file="file://$PROJECT_DIR$/HumanApp.Core/Class1.cs" />
+    <entry file="file://$PROJECT_DIR$/HumanApp.Core.Entity/Class1.cs" />
+    <entry file="file://$PROJECT_DIR$/HumanApp.Infrastructure.Data/Class1.cs" />
+    <entry file="file://$PROJECT_DIR$/HumanApp.Core/ApplicationService/ILampService.cs" />
+    <entry file="file://$PROJECT_DIR$/HumanApp.Core/ApplicationService/Services/LampService.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <folding>
-            <marker date="1539001331885" expanded="true" signature="53:93" ph="{...}" />
-            <marker date="1539001331885" expanded="true" signature="79:91" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HumanApp.Core/ApplicationService/IHumanService.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
-          <folding>
-            <marker date="1539001417581" expanded="true" signature="42:102" ph="{...}" />
-            <marker date="1539001417581" expanded="true" signature="79:100" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HumanApp.Core/ApplicationService/Services/HumanService.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
-          <folding>
-            <marker date="1539001444793" expanded="true" signature="51:106" ph="{...}" />
-            <marker date="1539001444793" expanded="true" signature="83:104" ph="{...}" />
-          </folding>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -324,10 +484,178 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <folding>
-            <marker date="1539001461198" expanded="false" signature="6:26" ph="..." />
-            <marker date="1539001461198" expanded="true" signature="47:153" ph="{...}" />
-            <marker date="1539001461198" expanded="true" signature="76:151" ph="{...}" />
-            <marker date="1539001461198" expanded="true" signature="125:145" ph="{...}" />
+            <marker date="1539021138251" expanded="false" signature="6:26" ph="..." />
+            <marker date="1539021138251" expanded="true" signature="47:153" ph="{...}" />
+            <marker date="1539021138251" expanded="true" signature="76:151" ph="{...}" />
+            <marker date="1539021138251" expanded="true" signature="125:145" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HumanApp.Core/HumanApp.Core.csproj">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LampApp.Core.Entity/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LampApp.Core/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LampApp.Infrastructure.Data/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1539021668802" expanded="true" signature="52:92" ph="{...}" />
+            <marker date="1539021668802" expanded="true" signature="78:90" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LampApp.Core/LampApp.Core.csproj">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LampApp.Core/ApplicationService/ILampService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+          <folding>
+            <marker date="1539021798777" expanded="true" signature="41:100" ph="{...}" />
+            <marker date="1539021798777" expanded="true" signature="77:98" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LampApp.Core/ApplicationService/Services/LampService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+          <folding>
+            <marker date="1539021829560" expanded="true" signature="50:104" ph="{...}" />
+            <marker date="1539021829560" expanded="true" signature="81:102" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LampApp.Core.Entity/Lamp.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+          <folding>
+            <marker date="1539023067801" expanded="true" signature="29:271" ph="{...}" />
+            <marker date="1539023067801" expanded="true" signature="53:269" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LampApp.Core.Entity/Order.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+          <folding>
+            <marker date="1539023067758" expanded="true" signature="6:47" ph="..." />
+            <marker date="1539023067758" expanded="true" signature="78:345" ph="{...}" />
+            <marker date="1539023067758" expanded="true" signature="103:343" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LampApp.Core.Entity/Customer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+          <folding>
+            <marker date="1539023067644" expanded="true" signature="64:325" ph="{...}" />
+            <marker date="1539023067644" expanded="true" signature="92:323" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LampApp.Core/ApplicationService/ICustomerService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="40" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="40" />
+          <folding>
+            <marker date="1539023067656" expanded="true" signature="6:95" ph="..." />
+            <marker date="1539023067656" expanded="true" signature="138:828" ph="{...}" />
+            <marker date="1539023067656" expanded="true" signature="178:826" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LampApp.Core/DomainService/ICustomerRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+          <folding>
+            <marker date="1539023067707" expanded="true" signature="6:81" ph="..." />
+            <marker date="1539023067707" expanded="true" signature="119:600" ph="{...}" />
+            <marker date="1539023067707" expanded="true" signature="162:598" ph="{...}" />
+            <marker date="1539023067707" expanded="true" signature="177:275" ph="/* CustomerRepository Interface ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LampApp.Core/DomainService/IOrderRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+          <folding>
+            <marker date="1539023067683" expanded="true" signature="6:60" ph="..." />
+            <marker date="1539023067683" expanded="true" signature="98:510" ph="{...}" />
+            <marker date="1539023067683" expanded="true" signature="138:508" ph="{...}" />
+            <marker date="1539023067683" expanded="true" signature="153:212" ph="/* Create Data ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LampApp.Core/ApplicationService/Services/CustomerService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+          <folding>
+            <marker date="1539023067728" expanded="true" signature="6:67" ph="..." />
+            <marker date="1539023067728" expanded="true" signature="119:2189" ph="{...}" />
+            <marker date="1539023067728" expanded="true" signature="166:2187" ph="{...}" />
+            <marker date="1539023067728" expanded="true" signature="289:399" ph="{...}" />
+            <marker date="1539023067728" expanded="true" signature="427:503" ph="{...}" />
+            <marker date="1539023067728" expanded="true" signature="591:814" ph="{...}" />
+            <marker date="1539023067728" expanded="true" signature="652:777" ph="{...}" />
+            <marker date="1539023067728" expanded="true" signature="869:936" ph="{...}" />
+            <marker date="1539023067728" expanded="true" signature="986:1054" ph="{...}" />
+            <marker date="1539023067728" expanded="true" signature="1117:1235" ph="{...}" />
+            <marker date="1539023067728" expanded="true" signature="1284:1357" ph="{...}" />
+            <marker date="1539023067728" expanded="true" signature="1419:1720" ph="{...}" />
+            <marker date="1539023067728" expanded="true" signature="1785:2068" ph="{...}" />
+            <marker date="1539023067728" expanded="true" signature="2116:2181" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LampApp.Core/ApplicationService/IOrderService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+          <folding>
+            <marker date="1539023067816" expanded="true" signature="41:442" ph="{...}" />
+            <marker date="1539023067816" expanded="true" signature="78:440" ph="{...}" />
+            <marker date="1539023067816" expanded="true" signature="93:152" ph="/* Create Data ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LampApp.Core/ApplicationService/Services/OrderService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+          <folding>
+            <marker date="1539023067774" expanded="true" signature="50:838" ph="{...}" />
+            <marker date="1539023067774" expanded="true" signature="98:836" ph="{...}" />
+            <marker date="1539023067774" expanded="true" signature="145:221" ph="{...}" />
+            <marker date="1539023067774" expanded="true" signature="261:337" ph="{...}" />
+            <marker date="1539023067774" expanded="true" signature="413:489" ph="{...}" />
+            <marker date="1539023067774" expanded="true" signature="517:593" ph="{...}" />
+            <marker date="1539023067774" expanded="true" signature="641:717" ph="{...}" />
+            <marker date="1539023067774" expanded="true" signature="754:830" ph="{...}" />
           </folding>
         </state>
       </provider>
