@@ -17,7 +17,7 @@ namespace LampApp.Core.ApplicationService.Services
         }
         public Order CreateOrder(Order order)
         {
-            return new Order();
+            return _orderRepo.Create(order);
         }
 
         public Order ReadyById(int id)
