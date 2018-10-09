@@ -20,6 +20,10 @@ namespace LampApp.Core.ApplicationService.Services
         {
             if (order.Lamps == null || order.Lamps.Id <= 0)
                 throw new InvalidDataException("To Create order please create a lamp");
+            if (_lampRepo.ReadById(order.Lamps.Id) == null)
+                throw new InvalidDataException("Lamp not found");
+            if (order.OrderDate == null)
+                throw new InvalidDataException("Order need a order date");
             return _orderRepo.Create(order);
         }
 
