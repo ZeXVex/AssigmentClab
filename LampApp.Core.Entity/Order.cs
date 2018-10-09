@@ -8,6 +8,6 @@ namespace LampApp.Core.Entity
         public int Id { get; set; }
         public DateTime OrderDate { get; set; }
         public DateTime DeliveryDate { get; set; }
-        public List<Lamp> Lamps { get; set; }
+        public Lamp Lamps { get; set; }
     }
 }

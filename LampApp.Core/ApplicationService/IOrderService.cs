@@ -7,7 +7,7 @@ namespace LampApp.Core.ApplicationService
     {
         //Create Data
         //No Id when enter, but Id when exits
-        Order Create(Order order);
+        Order CreateOrder(Order order);
         //Read Data
         Order ReadyById(int id);
         List<Order> ReadAll();

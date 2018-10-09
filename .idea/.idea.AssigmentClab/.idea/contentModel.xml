@@ -71,6 +71,7 @@
             </e>
           </e>
         </e>
+        <e p="TDD.cs" t="Include" />
         <e p="UniteTest.csproj" t="IncludeRecursive" />
         <e p="UnitTest1.cs" t="Include" />
       </e>

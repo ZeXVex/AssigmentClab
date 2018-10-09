@@ -15,7 +15,7 @@ namespace LampApp.Core.ApplicationService.Services
             _orderRepo = orderRepo;
             _lampRepo = lampRepository;
         }
-        public Order Create(Order order)
+        public Order CreateOrder(Order order)
         {
             return new Order();
         }
