@@ -23,7 +23,7 @@ namespace LampApp.Core.ApplicationService.Services
             if (_lampRepo.ReadById(order.Lamps.Id) == null)
                 throw new InvalidDataException("Lamp not found");
             if (order.OrderDate == null)
-                throw new InvalidDataException("Order need a order date");
+                throw new InvalidDataException("Order need an order date");
             return _orderRepo.Create(order);
         }
 
