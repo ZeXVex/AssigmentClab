@@ -2,7 +2,11 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using LampApp.Core.ApplicationService;
+using LampApp.Core.ApplicationService.Services;
+using LampApp.Core.DomainService;
 using LampApp.Infrastructure.Data;
+using LampApp.Infrastructure.Data.Repositories;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -12,6 +16,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
+using Newtonsoft.Json;
 
 namespace WebApplication1
 {
@@ -52,6 +57,17 @@ namespace WebApplication1
                     opt => opt
                         .UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
             }
+
+            services.AddScoped<ILampRepository, LampRepositories>();
+            services.AddScoped<ILampService, LampService>();
+            services.AddScoped<IOrderRepository, OrderRepositories>();
+            services.AddScoped<IOrderService, OrderService>();
+            
+            services.AddMvc().AddJsonOptions(options => {
+                options.SerializerSettings.ReferenceLoopHandling = ReferenceLoopHandling.Ignore;
+            });
+            
+            services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

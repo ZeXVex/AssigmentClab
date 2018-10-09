@@ -10,10 +10,10 @@
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
     ],
     "originalTargetFrameworks": [
-      "netstandard2.0"
+      "netcoreapp2.1"
     ],
     "frameworks": {
-      "netstandard2.0": {
+      "netcoreapp2.1": {
         "projectReferences": {
           "C:\\Users\\ZeXVex\\Documents\\School\\Assigment\\AssigmentClab\\LampApp.Core.Entity\\LampApp.Core.Entity.csproj": {
             "projectPath": "C:\\Users\\ZeXVex\\Documents\\School\\Assigment\\AssigmentClab\\LampApp.Core.Entity\\LampApp.Core.Entity.csproj"
@@ -31,16 +31,28 @@
     }
   },
   "frameworks": {
-    "netstandard2.0": {
+    "netcoreapp2.1": {
       "dependencies": {
         "Microsoft.EntityFrameworkCore.SqlServer": {
           "target": "Package",
-          "version": "[2.2.0-preview2-35157, )"
+          "version": "[2.1.4, )"
         },
-        "NETStandard.Library": {
+        "Microsoft.EntityFrameworkCore.Sqlite": {
+          "target": "Package",
+          "version": "[2.1.4, )"
+        },
+        "Microsoft.EntityFrameworkCore.Sqlite.Core": {
+          "target": "Package",
+          "version": "[2.1.4, )"
+        },
+        "Microsoft.EntityFrameworkCore.Sqlite.Design": {
+          "target": "Package",
+          "version": "[1.1.6, )"
+        },
+        "Microsoft.NETCore.App": {
           "suppressParent": "All",
           "target": "Package",
-          "version": "[2.0.3, )",
+          "version": "[2.1.0, )",
           "autoReferenced": true
         }
       },

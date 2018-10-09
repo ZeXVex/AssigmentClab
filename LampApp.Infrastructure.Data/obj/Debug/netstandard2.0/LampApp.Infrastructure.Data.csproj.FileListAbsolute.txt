@@ -1,0 +1,14 @@
+C:\Users\ZeXVex\Documents\School\Assigment\AssigmentClab\LampApp.Infrastructure.Data\bin\Debug\netstandard2.0\LampApp.Infrastructure.Data.deps.json
+C:\Users\ZeXVex\Documents\School\Assigment\AssigmentClab\LampApp.Infrastructure.Data\bin\Debug\netstandard2.0\LampApp.Infrastructure.Data.dll
+C:\Users\ZeXVex\Documents\School\Assigment\AssigmentClab\LampApp.Infrastructure.Data\bin\Debug\netstandard2.0\LampApp.Infrastructure.Data.pdb
+C:\Users\ZeXVex\Documents\School\Assigment\AssigmentClab\LampApp.Infrastructure.Data\bin\Debug\netstandard2.0\LampApp.Core.dll
+C:\Users\ZeXVex\Documents\School\Assigment\AssigmentClab\LampApp.Infrastructure.Data\bin\Debug\netstandard2.0\LampApp.Core.Entity.dll
+C:\Users\ZeXVex\Documents\School\Assigment\AssigmentClab\LampApp.Infrastructure.Data\bin\Debug\netstandard2.0\LampApp.Core.Entity.pdb
+C:\Users\ZeXVex\Documents\School\Assigment\AssigmentClab\LampApp.Infrastructure.Data\bin\Debug\netstandard2.0\LampApp.Core.pdb
+C:\Users\ZeXVex\Documents\School\Assigment\AssigmentClab\LampApp.Infrastructure.Data\obj\Debug\netstandard2.0\LampApp.Infrastructure.Data.csprojAssemblyReference.cache
+C:\Users\ZeXVex\Documents\School\Assigment\AssigmentClab\LampApp.Infrastructure.Data\obj\Debug\netstandard2.0\LampApp.Infrastructure.Data.csproj.CoreCompileInputs.cache
+C:\Users\ZeXVex\Documents\School\Assigment\AssigmentClab\LampApp.Infrastructure.Data\obj\Debug\netstandard2.0\LampApp.Infrastructure.Data.AssemblyInfoInputs.cache
+C:\Users\ZeXVex\Documents\School\Assigment\AssigmentClab\LampApp.Infrastructure.Data\obj\Debug\netstandard2.0\LampApp.Infrastructure.Data.AssemblyInfo.cs
+C:\Users\ZeXVex\Documents\School\Assigment\AssigmentClab\LampApp.Infrastructure.Data\obj\Debug\netstandard2.0\LampApp.Infrastructure.Data.csproj.CopyComplete
+C:\Users\ZeXVex\Documents\School\Assigment\AssigmentClab\LampApp.Infrastructure.Data\obj\Debug\netstandard2.0\LampApp.Infrastructure.Data.dll
+C:\Users\ZeXVex\Documents\School\Assigment\AssigmentClab\LampApp.Infrastructure.Data\obj\Debug\netstandard2.0\LampApp.Infrastructure.Data.pdb
