@@ -1,5 +1,6 @@
 using System.Collections.Generic;
 using System.IO;
+using System.Linq;
 using LampApp.Core.DomainService;
 using LampApp.Core.Entity;
 
@@ -18,9 +19,6 @@ namespace LampApp.Core.ApplicationService.Services
         }
         public Order CreateOrder(Order order)
         {
-            if (order.Lamps == null || order.Lamps.Id <= 0)
-                throw new InvalidDataException("To Create order please create a lamp");
-            if (_lampRepo.ReadById(order.Lamps.Id) == null)
                 throw new InvalidDataException("Lamp not found");
             if (order.OrderDate == null)
                 throw new InvalidDataException("Order need an order date");
@@ -29,22 +27,22 @@ namespace LampApp.Core.ApplicationService.Services
 
         public Order ReadyById(int id)
         {
-            throw new System.NotImplementedException();
+            return _orderRepo.ReadyById(id);
         }
 
         public List<Order> ReadAll()
         {
-            throw new System.NotImplementedException();
+            return _orderRepo.ReadAll().ToList();
         }
 
         public Order Update(Order OrderUpdate)
         {
-            throw new System.NotImplementedException();
+            return _orderRepo.Update(OrderUpdate);
         }
 
         public Order Delete(int id)
         {
-            throw new System.NotImplementedException();
+            return _orderRepo.Delete(id);
         }
     }
 }

@@ -14,7 +14,11 @@
     ],
     "frameworks": {
       "netcoreapp2.1": {
-        "projectReferences": {}
+        "projectReferences": {
+          "C:\\Users\\ZeXVex\\Documents\\School\\Assigment\\AssigmentClab\\LampApp.Infrastructure.Data\\LampApp.Infrastructure.Data.csproj": {
+            "projectPath": "C:\\Users\\ZeXVex\\Documents\\School\\Assigment\\AssigmentClab\\LampApp.Infrastructure.Data\\LampApp.Infrastructure.Data.csproj"
+          }
+        }
       }
     },
     "warningProperties": {

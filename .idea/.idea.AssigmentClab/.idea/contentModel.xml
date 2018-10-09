@@ -46,17 +46,23 @@
           </e>
         </e>
         <e p="Order.cs" t="Include" />
+        <e p="OrderLine.cs" t="Include" />
       </e>
       <e p="LampApp.Infrastructure.Data" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
-        <e p="Class1.cs" t="Include" />
+        <e p="DBInitializer.cs" t="Include" />
         <e p="LampApp.Infrastructure.Data.csproj" t="IncludeRecursive" />
+        <e p="LampAppContext.cs" t="Include" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="netstandard2.0" t="Include">
               <e p="LampApp.Infrastructure.Data.AssemblyInfo.cs" t="Include" />
             </e>
           </e>
+        </e>
+        <e p="Repositories" t="Include">
+          <e p="LampRepositories.cs" t="Include" />
+          <e p="OrderRepositories.cs" t="Include" />
         </e>
       </e>
       <e p="packages" t="ExcludeRecursive" />

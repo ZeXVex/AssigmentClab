@@ -14,7 +14,14 @@
     ],
     "frameworks": {
       "netstandard2.0": {
-        "projectReferences": {}
+        "projectReferences": {
+          "C:\\Users\\ZeXVex\\Documents\\School\\Assigment\\AssigmentClab\\LampApp.Core.Entity\\LampApp.Core.Entity.csproj": {
+            "projectPath": "C:\\Users\\ZeXVex\\Documents\\School\\Assigment\\AssigmentClab\\LampApp.Core.Entity\\LampApp.Core.Entity.csproj"
+          },
+          "C:\\Users\\ZeXVex\\Documents\\School\\Assigment\\AssigmentClab\\LampApp.Core\\LampApp.Core.csproj": {
+            "projectPath": "C:\\Users\\ZeXVex\\Documents\\School\\Assigment\\AssigmentClab\\LampApp.Core\\LampApp.Core.csproj"
+          }
+        }
       }
     },
     "warningProperties": {
@@ -26,6 +33,10 @@
   "frameworks": {
     "netstandard2.0": {
       "dependencies": {
+        "Microsoft.EntityFrameworkCore.SqlServer": {
+          "target": "Package",
+          "version": "[2.2.0-preview2-35157, )"
+        },
         "NETStandard.Library": {
           "suppressParent": "All",
           "target": "Package",
