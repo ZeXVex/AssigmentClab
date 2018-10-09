@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+using System.IO;
 using LampApp.Core.DomainService;
 using LampApp.Core.Entity;
 
@@ -17,6 +18,8 @@ namespace LampApp.Core.ApplicationService.Services
         }
         public Order CreateOrder(Order order)
         {
+            if (order.Lamps == null || order.Lamps.Id <= 0)
+                throw new InvalidDataException("To Create order please create a lamp");
             return _orderRepo.Create(order);
         }
 
