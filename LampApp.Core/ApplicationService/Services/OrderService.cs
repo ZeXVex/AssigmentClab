@@ -1,13 +1,23 @@
 using System.Collections.Generic;
+using LampApp.Core.DomainService;
 using LampApp.Core.Entity;
 
 namespace LampApp.Core.ApplicationService.Services
 {
     public class OrderService : IOrderService
     {
+        readonly IOrderRepository _orderRepo;
+        readonly ILampRepository _lampRepo;
+
+        public OrderService(IOrderRepository orderRepo,
+            ILampRepository lampRepository)
+        {
+            _orderRepo = orderRepo;
+            _lampRepo = lampRepository;
+        }
         public Order Create(Order order)
         {
-            throw new System.NotImplementedException();
+            return new Order();
         }
 
         public Order ReadyById(int id)
