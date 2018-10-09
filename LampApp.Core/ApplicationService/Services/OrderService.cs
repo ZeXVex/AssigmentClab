@@ -30,6 +30,21 @@ namespace LampApp.Core.ApplicationService.Services
             return _orderRepo.ReadyById(id);
         }
 
+        public List<Order> GetFilteredOrder(Filter filter)
+        {
+            if (filter.CurrentPage < 0 || filter.ItemsPrPage <0)
+            {
+                throw new InvalidDataException("Current and ItemsPage must be zero or more");
+            }
+
+            if ((filter.CurrentPage -1 * filter.ItemsPrPage) >= _orderRepo.Count())
+            {
+                throw new InvalidDataException("Index out of bounds, currentPage is to high");
+            }
+
+            return _orderRepo.ReadAll(filter).ToList();
+        }
+
         public List<Order> ReadAll()
         {
             return _orderRepo.ReadAll().ToList();

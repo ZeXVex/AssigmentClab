@@ -10,6 +10,7 @@ namespace LampApp.Core.ApplicationService
         Order CreateOrder(Order order);
         //Read Data
         Order ReadyById(int id);
+        List<Order> GetFilteredOrder(Filter filter);
         List<Order> ReadAll();
         //Update Data
         Order Update(Order OrderUpdate);
