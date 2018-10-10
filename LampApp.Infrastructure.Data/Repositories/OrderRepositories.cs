@@ -30,16 +30,16 @@ namespace LampApp.Infrastructure.Data.Repositories
                 .FirstOrDefault(o => o.Id == id);
         }
 
-        public IEnumerable<Order> ReadAll(Filter filter = null)
+        public IEnumerable<Order> ReadAll(Filter filter)
         {
-            if (filter == null)
-            {
-                return _ltx.Orders;
-            }
+           if (filter.ItemsPrPage> 0 && filter.CurrentPage>0)
+           {
+               return _ltx.Orders
+                   .Skip((filter.CurrentPage - 1) * filter.ItemsPrPage)
+                   .Take(filter.ItemsPrPage);
+           }
 
-            return _ltx.Orders
-                .Skip((filter.CurrentPage - 1) * filter.ItemsPrPage)
-                .Take(filter.ItemsPrPage);
+            return _ltx.Orders;
         }
 
         public int Count()

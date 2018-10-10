@@ -71,6 +71,7 @@ namespace WebApplication1.Controllers
         [HttpDelete("{id}")]
         public ActionResult<Order> Delete(int id)
         {
+            _orderService.Delete(id);
             return Ok($"Order with Id: {id} is Deleted");
         }   
     }

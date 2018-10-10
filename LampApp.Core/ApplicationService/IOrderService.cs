@@ -11,7 +11,7 @@ namespace LampApp.Core.ApplicationService
         //Read Data
         Order ReadyById(int id);
         List<Order> GetFilteredOrder(Filter filter);
-        List<Order> ReadAll();
+       // List<Order> ReadAll();
         //Update Data
         Order Update(Order OrderUpdate);
         //Delete Data

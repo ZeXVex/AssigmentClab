@@ -55,11 +55,12 @@ namespace WebApplication1
             {
                 services.AddDbContext<LampAppContext>(
                     opt => opt
-                        .UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+                        .UseSqlServer(Configuration.GetConnectionString("LampShop")));
             }
 
             services.AddScoped<ILampRepository, LampRepositories>();
             services.AddScoped<ILampService, LampService>();
+            
             services.AddScoped<IOrderRepository, OrderRepositories>();
             services.AddScoped<IOrderService, OrderService>();
             
@@ -68,6 +69,11 @@ namespace WebApplication1
             });
             
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
+
+            services.AddCors(options =>
+            {
+                options.AddPolicy("AllowSpecificOrigin",builder => builder.AllowAnyOrigin().AllowAnyHeader().AllowAnyMethod());
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -93,6 +99,7 @@ namespace WebApplication1
             }
 
             app.UseHttpsRedirection();
+            app.UseCors("AllowSpecificOrigin");
             app.UseMvc();
         }
     }

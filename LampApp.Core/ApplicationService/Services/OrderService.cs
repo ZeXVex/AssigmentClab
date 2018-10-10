@@ -44,10 +44,10 @@ namespace LampApp.Core.ApplicationService.Services
             return _orderRepo.ReadAll(filter).ToList();
         }
 
-        public List<Order> ReadAll()
+        /*public List<Order> ReadAll()
         {
             return _orderRepo.ReadAll().ToList();
-        }
+        }*/
 
         public Order Update(Order OrderUpdate)
         {

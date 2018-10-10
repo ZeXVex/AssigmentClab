@@ -10,7 +10,7 @@ namespace LampApp.Core.DomainService
         Order Create(Order order);
         //Read Data
         Order ReadyById(int id);
-        IEnumerable<Order> ReadAll(Filter filter = null);
+        IEnumerable<Order> ReadAll(Filter filter);
         int Count();
         //Update Data
         Order Update(Order OrderUpdate);
