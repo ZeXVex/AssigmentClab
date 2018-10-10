@@ -18,7 +18,7 @@ namespace WebApplication1.Controllers
                 _lampService = lampService;
             }
 
-            // GET api/customers -- READ All
+            // GET api/lamps -- READ All
             [HttpGet]
             public List<Lamp> Get()
             {
@@ -26,7 +26,7 @@ namespace WebApplication1.Controllers
                 return _lampService.GetAllLamp();
             }
 
-            // GET api/customers/5 -- READ By Id
+            // GET api/lamps/5 -- READ By Id
             [HttpGet("{id}")]
             public ActionResult<Lamp> Get(int id)
             {
@@ -36,7 +36,7 @@ namespace WebApplication1.Controllers
                 return _lampService.FindLampById(id);
             }
 
-            // POST api/customers -- CREATE JSON
+            // POST api/lamps -- CREATE JSON
             [HttpPost]
             public ActionResult<Lamp> Post([FromBody] Lamp lamp)
             {
@@ -59,7 +59,7 @@ namespace WebApplication1.Controllers
                 return _lampService.CreateLamp(lamp);
             }
 
-            // PUT api/customers/5 -- Update
+            // PUT api/lamps/5 -- Update
             [HttpPut("{id}")]
             public ActionResult<Lamp> Put(int id, [FromBody] Lamp lamp)
             {
@@ -71,7 +71,7 @@ namespace WebApplication1.Controllers
                 return Ok(_lampService.UpdateLamp(lamp));
             }
 
-            // DELETE api/customers/5
+            // DELETE api/lamps/5
             [HttpDelete("{id}")]
             public ActionResult<Lamp> Delete(int id)
             {

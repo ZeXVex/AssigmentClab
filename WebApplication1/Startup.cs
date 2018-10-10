@@ -49,7 +49,7 @@ namespace WebApplication1
             if (_env.IsDevelopment())
             {
                 services.AddDbContext<LampAppContext>(
-                    opt => opt.UseSqlServer("Data Source= lampApp.db"));
+                    opt => opt.UseSqlite("Data Source= lampApp.db"));
             }
             else if (_env.IsProduction())
             {
