@@ -86,7 +86,7 @@
         <e p="appsettings.json" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="Controllers" t="Include">
-          <e p="LampController.cs" t="Include" />
+          <e p="LampsController.cs" t="Include" />
           <e p="OrdersController.cs" t="Include" />
         </e>
         <e p="lampApp.db" t="Include" />

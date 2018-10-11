@@ -5,8 +5,6 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace WebApplication1.Controllers
 {
-    public class LampController
-    {
         [Route("api/[controller]")]
         [ApiController]
         public class LampsController : ControllerBase
@@ -22,7 +20,6 @@ namespace WebApplication1.Controllers
             [HttpGet]
             public List<Lamp> Get()
             {
-                ///Customers with all there orders? NO
                 return _lampService.GetAllLamp();
             }
 
@@ -84,5 +81,4 @@ namespace WebApplication1.Controllers
                 return Ok($"Lamp with Id: {id} is Deleted");
             }
         }
-    }
 }
