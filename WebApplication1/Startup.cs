@@ -72,7 +72,7 @@ namespace WebApplication1
 
             services.AddCors(options =>
             {
-                options.AddPolicy("AllowSpecificOrigin",builder => builder.WithOrigins("https://custapp2018.azurewebsites.net").AllowAnyHeader().AllowAnyMethod());
+                options.AddPolicy("AllowSpecificOrigin",builder => builder.WithOrigins("http://localhost:63343").AllowAnyHeader().AllowAnyMethod());
             });
         }
 
