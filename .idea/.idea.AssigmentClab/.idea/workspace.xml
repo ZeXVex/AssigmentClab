@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="21548d05-13e2-42de-9bde-bfea26ab62aa" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.AssigmentClab/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AssigmentClab/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.AssigmentClab/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AssigmentClab/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UniteTest/obj/Debug/netcoreapp2.1/UniteTest.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/UniteTest/obj/Debug/netcoreapp2.1/UniteTest.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApplication1/Controllers/LampController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication1/Controllers/LampsController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApplication1/bin/Debug/netcoreapp2.1/WebApplication1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication1/bin/Debug/netcoreapp2.1/WebApplication1.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApplication1/bin/Debug/netcoreapp2.1/WebApplication1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication1/bin/Debug/netcoreapp2.1/WebApplication1.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApplication1/lampApp.db" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication1/lampApp.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApplication1/obj/Debug/netcoreapp2.1/WebApplication1.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication1/obj/Debug/netcoreapp2.1/WebApplication1.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApplication1/obj/Debug/netcoreapp2.1/WebApplication1.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication1/obj/Debug/netcoreapp2.1/WebApplication1.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApplication1/obj/Debug/netcoreapp2.1/WebApplication1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication1/obj/Debug/netcoreapp2.1/WebApplication1.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApplication1/obj/Debug/netcoreapp2.1/WebApplication1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication1/obj/Debug/netcoreapp2.1/WebApplication1.pdb" afterDir="false" />
-    </list>
+    <list default="true" id="21548d05-13e2-42de-9bde-bfea26ab62aa" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,13 +22,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cs" value="42" />
+          <entry key="cs" value="44" />
           <entry key="json" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="C#" value="42" />
+          <entry key="C#" value="44" />
           <entry key="JSON" value="1" />
         </counts>
       </usages-collector>
@@ -132,20 +120,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WebApplication1/Program.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="23" column="1" selection-end-line="23" selection-end-column="1" />
-              <folding>
-                <marker date="1539001168982" expanded="false" signature="6:255" ph="..." />
-                <marker date="1539001168982" expanded="true" signature="309:607" ph="{...}" />
-                <marker date="1539001168982" expanded="true" signature="362:436" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/WebApplication1/Controllers/LampsController.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1185">
@@ -171,19 +145,24 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LampApp.Core/ApplicationService/IOrderService.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="50" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LampApp.Core/ApplicationService/Services/OrderService.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
+            <state relative-caret-position="192">
               <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+              <folding>
+                <marker date="1539162564184" expanded="false" signature="6:130" ph="..." />
+                <marker date="1539162564184" expanded="true" signature="182:1726" ph="{...}" />
+                <marker date="1539162564184" expanded="true" signature="230:1724" ph="{...}" />
+                <marker date="1539162564184" expanded="true" signature="427:523" ph="{...}" />
+                <marker date="1539162564184" expanded="true" signature="569:751" ph="{...}" />
+                <marker date="1539162564184" expanded="true" signature="791:856" ph="{...}" />
+                <marker date="1539162564184" expanded="true" signature="916:1388" ph="{...}" />
+                <marker date="1539162564184" expanded="true" signature="991:1113" ph="{...}" />
+                <marker date="1539162564184" expanded="true" signature="1198:1321" ph="{...}" />
+                <marker date="1539162564184" expanded="true" signature="1398:1500" ph="/* public List&lt;Order&gt; ReadAll() ... */" />
+                <marker date="1539162564184" expanded="true" signature="1548:1619" ph="{...}" />
+                <marker date="1539162564184" expanded="true" signature="1656:1718" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -237,8 +216,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LampApp.Infrastructure.Data/DBInitializer.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+            <state relative-caret-position="372">
+              <caret line="26" column="24" lean-forward="true" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
               <folding>
                 <marker date="1539165885692" expanded="false" signature="6:40" ph="..." />
                 <marker date="1539165885692" expanded="true" signature="79:1516" ph="{...}" />
@@ -258,8 +237,41 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LampApp.Core/DomainService/IOrderRepository.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
+            <state relative-caret-position="120">
               <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+              <folding>
+                <marker date="1539166074352" expanded="false" signature="6:60" ph="..." />
+                <marker date="1539166074352" expanded="true" signature="98:495" ph="{...}" />
+                <marker date="1539166074352" expanded="true" signature="138:493" ph="{...}" />
+                <marker date="1539166074352" expanded="true" signature="153:212" ph="/* Create Data ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LampApp.Core.Entity/Order.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
+              <folding>
+                <marker date="1539081839850" expanded="false" signature="6:47" ph="..." />
+                <marker date="1539081839850" expanded="true" signature="78:308" ph="{...}" />
+                <marker date="1539081839850" expanded="true" signature="103:306" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LampApp.Core.Entity/Lamp.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" selection-start-line="7" selection-end-line="12" selection-end-column="55" />
+              <folding>
+                <marker date="1539081839848" expanded="true" signature="64:401" ph="{...}" />
+                <marker date="1539081839848" expanded="true" signature="88:399" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -338,8 +350,8 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -360,6 +372,12 @@
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
               <item name="AssigmentClab" type="24d0babc:SolutionExplorerModelNode" />
               <item name="Core" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="AssigmentClab" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Core" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="LampApp.Core.Entity" type="24d0babc:SolutionExplorerModelNode" />
             </path>
             <path>
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
@@ -515,12 +533,12 @@
       <workItem from="1539021364838" duration="1700000" />
       <workItem from="1538999908348" duration="1299000" />
       <workItem from="1539079325318" duration="8016000" />
-      <workItem from="1539164214999" duration="2202000" />
+      <workItem from="1539164214999" duration="4192000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27406000" />
+    <option name="totallyTimeSpent" value="29396000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -532,14 +550,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1988273" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.40809628" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3253796" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32858709" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.29718006" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -673,13 +692,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LampApp.Core.Entity/Order.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LampApp.Core.Entity/OrderLine.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -698,13 +710,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="840">
           <caret line="56" column="5" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LampApp.Core.Entity/Lamp.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
         </state>
       </provider>
     </entry>
@@ -748,20 +753,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="50" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LampApp.Core/ApplicationService/Services/OrderService.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LampApp.Core/DomainService/IOrderRepository.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -825,25 +816,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LampApp.Infrastructure.Data/DBInitializer.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
-          <folding>
-            <marker date="1539165885692" expanded="false" signature="6:40" ph="..." />
-            <marker date="1539165885692" expanded="true" signature="79:1516" ph="{...}" />
-            <marker date="1539165885692" expanded="true" signature="112:1514" ph="{...}" />
-            <marker date="1539165885692" expanded="true" signature="172:1508" ph="{...}" />
-            <marker date="1539165885692" expanded="true" signature="328:518" ph="{...}" />
-            <marker date="1539165885692" expanded="true" signature="602:792" ph="{...}" />
-            <marker date="1539165885692" expanded="true" signature="879:980" ph="{...}" />
-            <marker date="1539165885692" expanded="true" signature="1067:1168" ph="{...}" />
-            <marker date="1539165885692" expanded="true" signature="1238:1314" ph="{...}" />
-            <marker date="1539165885692" expanded="true" signature="1389:1465" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LampApp.Infrastructure.Data/Repositories/LampRepositories.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
@@ -882,6 +854,82 @@
             <marker date="1539241644160" expanded="true" signature="2021:2141" ph="{...}" />
             <marker date="1539241644160" expanded="true" signature="2335:2630" ph="{...}" />
             <marker date="1539241644160" expanded="true" signature="2439:2554" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LampApp.Infrastructure.Data/DBInitializer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="26" column="24" lean-forward="true" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
+          <folding>
+            <marker date="1539165885692" expanded="false" signature="6:40" ph="..." />
+            <marker date="1539165885692" expanded="true" signature="79:1516" ph="{...}" />
+            <marker date="1539165885692" expanded="true" signature="112:1514" ph="{...}" />
+            <marker date="1539165885692" expanded="true" signature="172:1508" ph="{...}" />
+            <marker date="1539165885692" expanded="true" signature="328:518" ph="{...}" />
+            <marker date="1539165885692" expanded="true" signature="602:792" ph="{...}" />
+            <marker date="1539165885692" expanded="true" signature="879:980" ph="{...}" />
+            <marker date="1539165885692" expanded="true" signature="1067:1168" ph="{...}" />
+            <marker date="1539165885692" expanded="true" signature="1238:1314" ph="{...}" />
+            <marker date="1539165885692" expanded="true" signature="1389:1465" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LampApp.Core/ApplicationService/Services/OrderService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+          <folding>
+            <marker date="1539162564184" expanded="false" signature="6:130" ph="..." />
+            <marker date="1539162564184" expanded="true" signature="182:1726" ph="{...}" />
+            <marker date="1539162564184" expanded="true" signature="230:1724" ph="{...}" />
+            <marker date="1539162564184" expanded="true" signature="427:523" ph="{...}" />
+            <marker date="1539162564184" expanded="true" signature="569:751" ph="{...}" />
+            <marker date="1539162564184" expanded="true" signature="791:856" ph="{...}" />
+            <marker date="1539162564184" expanded="true" signature="916:1388" ph="{...}" />
+            <marker date="1539162564184" expanded="true" signature="991:1113" ph="{...}" />
+            <marker date="1539162564184" expanded="true" signature="1198:1321" ph="{...}" />
+            <marker date="1539162564184" expanded="true" signature="1398:1500" ph="/* public List&lt;Order&gt; ReadAll() ... */" />
+            <marker date="1539162564184" expanded="true" signature="1548:1619" ph="{...}" />
+            <marker date="1539162564184" expanded="true" signature="1656:1718" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LampApp.Core/DomainService/IOrderRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+          <folding>
+            <marker date="1539166074352" expanded="false" signature="6:60" ph="..." />
+            <marker date="1539166074352" expanded="true" signature="98:495" ph="{...}" />
+            <marker date="1539166074352" expanded="true" signature="138:493" ph="{...}" />
+            <marker date="1539166074352" expanded="true" signature="153:212" ph="/* Create Data ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LampApp.Core.Entity/Order.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
+          <folding>
+            <marker date="1539081839850" expanded="false" signature="6:47" ph="..." />
+            <marker date="1539081839850" expanded="true" signature="78:308" ph="{...}" />
+            <marker date="1539081839850" expanded="true" signature="103:306" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LampApp.Core.Entity/Lamp.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="12" selection-end-column="55" />
+          <folding>
+            <marker date="1539081839848" expanded="true" signature="64:401" ph="{...}" />
+            <marker date="1539081839848" expanded="true" signature="88:399" ph="{...}" />
           </folding>
         </state>
       </provider>
